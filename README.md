@@ -66,9 +66,9 @@ impressmentwebmap-5099/
 
 ## Usage
 
-Visit: [Project Deliverables Page](https://cassalanza.wixsite.com/mappingfreedom2024/s-projects-basic)
-OR
-To view the map locally:
+- Visit: [Project Deliverables Page](https://cassalanza.wixsite.com/mappingfreedom2024/s-projects-basic)
+
+- To view the map locally:
 
 1. Clone or download this repository.  
 2. Run a local HTTP server (browsers often block local JSON/GeoJSON loading). Example with Python:  
