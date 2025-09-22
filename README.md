@@ -89,15 +89,15 @@ To view the map locally:
 
 ## Credits
 
-**Author**: Cassy Lanza
-**Affiliation**: Mapping Freedom REU 2024
-**Data Providers**: CWRGM Letters, Bucknell GIS & Spatial Thinking (slaveholding family data)
+- **Author**: Cassandra Lanza
+- **Affiliation**: Mapping Freedom REU 2024
+- **Data Providers**: CWRGM Letters, Bucknell GIS & Spatial Thinking (slaveholding family data)
 
 ---
 
 ## Contact
 
 For questions, feedback, or further information:
-Author: Cassy Lanza
-Project Website: [Mapping Freedom 2024](https://cassalanza.wixsite.com/mappingfreedom2024)
-Research Draft: Relocation Reshaping Relationships: Impressment in Civil War Mississippi
+- **Author**: Cassandra Lanza
+- **Project Website**: [Mapping Freedom 2024](https://cassalanza.wixsite.com/mappingfreedom2024)
+- **Research Draft**: Relocation Reshaping Relationships: Impressment in Civil War Mississippi
