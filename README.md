@@ -51,7 +51,7 @@ Learn more about my individual project here: [Deliverables and Blog](https://cas
 ---
 
 ## Repository Structure
-
+```
 impressmentwebmap-5099/
 │
 ├── index.html # Main web page for the interactive map
@@ -61,7 +61,7 @@ impressmentwebmap-5099/
 ├── data/ # Spatial data (GeoJSON, attribute tables)
 ├── legend/ # Legend assets (images or HTML fragments)
 └── webfonts/ # Custom fonts
-
+```
 ---
 
 ## Usage
@@ -89,9 +89,9 @@ To view the map locally:
 
 ## Credits
 
-Author: Cassy Lanza
-Affiliation: Mapping Freedom REU 2024
-Data Providers: CWRGM Letters, Bucknell GIS & Spatial Thinking (slaveholding family data)
+**Author**: Cassy Lanza
+**Affiliation**: Mapping Freedom REU 2024
+**Data Providers**: CWRGM Letters, Bucknell GIS & Spatial Thinking (slaveholding family data)
 
 ---
 
